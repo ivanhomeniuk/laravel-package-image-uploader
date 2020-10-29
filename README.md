@@ -1,4 +1,4 @@
-# laraver-package
+# laravel-package
 
 This is an image service, designed to ingest images and prepare them for use on the site. (test task)
 
