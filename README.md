@@ -8,3 +8,6 @@ This is an image service, designed to ingest images and prepare them for use on 
     Store the image to S3 or GCP cloud storage and create a public url - ideally with a CDN frontend
     Save the image data to a table of your design in the local mysql database
     Make the image available to the frontend
+
+
+P.S. version 2.3 of package "laravel-packager" have bug with namespace rewrites
